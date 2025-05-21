@@ -95,7 +95,7 @@ See [`script.js`](./script.js) or copy it directly below:
 
   log(`Finished! Total videos removed: ${removedCount}`);
 })();
-
+```
 ## 🛡️ Disclaimer
 
 This project is not affiliated with YouTube or Google in any way.
